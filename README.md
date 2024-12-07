@@ -18,6 +18,10 @@ you can:
 
 first type this in your powershell:
 ```
+go mod tidy
+```
+and
+```
 go mod init predict_grades
 ```
 
