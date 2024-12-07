@@ -13,3 +13,18 @@ you can:
 
 **you have to customize it because it is now by it's default customized on MY grades**
 
+
+#how to use
+  in your golang project:
+  ```
+    package main
+    
+    import (
+        "fmt"
+        "jouwmodule/grades_bot"  // the go grades predicter
+    )
+    
+    func main() {
+        grades_bot.main_grades_predict() //the main function of my grades bot
+    }
+  ```
