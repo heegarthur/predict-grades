@@ -11,5 +11,6 @@ you can:
   
   -customize the grades bot
 
-you have to customize it because it is now by it's default customized on MY grades
+**you have to customize it because it is now by it's default customized on MY grades**
 
+***I would not recommed to quit my typing "4" in the main menu when you are TESTING the bot, I think that's why my browser marked the file as a virus***
