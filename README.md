@@ -15,6 +15,12 @@ you can:
 
 
 #how to use
+
+first type this in your powershell:
+```
+github.com/heegarthur/predict-grades
+```
+
   in your golang project:
   ```
     package main
